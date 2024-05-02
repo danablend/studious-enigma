@@ -54,3 +54,4 @@ var FramerAuthLib = /** @class */ (function () {
     return FramerAuthLib;
 }());
 export { FramerAuthComponentType, FramerAuthComponent, FramerAuthLib };
+export default FramerAuthLib;
