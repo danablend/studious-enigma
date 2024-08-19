@@ -2,7 +2,7 @@
   "id": "eade44",
   "name": "Test Framerauth",
   "modes": [
-    "default"
+    "canvas"
   ],
   "icon": "/icon.svg"
 }
