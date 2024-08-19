@@ -4,5 +4,5 @@
   "modes": [
     "canvas"
   ],
-  "icon": "/icon.svg"
+  "icon": "https://cdn.jsdelivr.net/gh/danablend/studious-enigma/icon.svg"
 }
